@@ -17,7 +17,7 @@ func SliceDistrubition(){
     }
     
     if Ali + ılgaz + ibo <= PizzaToplam {
-        print("ibo gets \(ibo) slices")
+        print("İbo gets \(ibo) slices")
     } else{
         print("Yeter la kaç tane alıyon")
     }
