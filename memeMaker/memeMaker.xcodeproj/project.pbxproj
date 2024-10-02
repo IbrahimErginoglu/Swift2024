@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D67F50A32CADC71E0016D631 /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67F50A22CADC71E0016D631 /* CaptionOption.swift */; };
 		D68F20E52CAD657300A5E728 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68F20E42CAD657300A5E728 /* AppDelegate.swift */; };
 		D68F20E72CAD657300A5E728 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68F20E62CAD657300A5E728 /* SceneDelegate.swift */; };
 		D68F20E92CAD657300A5E728 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68F20E82CAD657300A5E728 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D67F50A22CADC71E0016D631 /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 		D68F20E12CAD657300A5E728 /* memeMaker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = memeMaker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D68F20E42CAD657300A5E728 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D68F20E62CAD657300A5E728 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				D68F20E42CAD657300A5E728 /* AppDelegate.swift */,
 				D68F20E62CAD657300A5E728 /* SceneDelegate.swift */,
 				D68F20E82CAD657300A5E728 /* ViewController.swift */,
+				D67F50A22CADC71E0016D631 /* CaptionOption.swift */,
 				D68F20EA2CAD657300A5E728 /* Main.storyboard */,
 				D68F20ED2CAD657400A5E728 /* Assets.xcassets */,
 				D68F20EF2CAD657400A5E728 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D68F20E92CAD657300A5E728 /* ViewController.swift in Sources */,
+				D67F50A32CADC71E0016D631 /* CaptionOption.swift in Sources */,
 				D68F20E52CAD657300A5E728 /* AppDelegate.swift in Sources */,
 				D68F20E72CAD657300A5E728 /* SceneDelegate.swift in Sources */,
 			);
